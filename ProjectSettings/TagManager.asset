@@ -47,5 +47,9 @@ TagManager:
   - name: FogOfWar
     uniqueID: 36169939
     locked: 0
+  - name: UI
+    uniqueID: 1493012729
+    locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []
